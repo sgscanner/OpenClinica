@@ -68,7 +68,7 @@
 												</goals>
 											</pluginExecutionFilter>
 											<action>
-												<ignore />
+												<ignore/>
 											</action>
 										</pluginExecution>
 										<!-- <pluginExecution> <pluginExecutionFilter> <groupId>org.codehaus.mojo</groupId>
@@ -288,7 +288,7 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>3.5.1-Final</version>
+			<version>5.3.38.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.ehcache</groupId>
